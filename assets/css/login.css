@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 95vh;
+     margin: 0;
+     background-color: #198754;
+   }
+   .container {
+    background-color: rgb(171, 170, 170);
+    box-shadow: 10px 20px 10px rgb(218, 214, 214);
+    padding: 20px;
+    width: 400px;
+  }
+  
+   
+ input {
+   width: 100%;
+   padding: 12px;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: border-box;
+   margin-top: 6px;
+   margin-bottom: 16px;
+ }
+ 
+ /* Style the submit button */
+ input[type=submit] {
+     background-color: rgb(41, 57, 194);
+     color: white;
+ }
+ 
+ /* Style the container for inputs */
+ 
+ 
+ /* The message box is shown when the user clicks on the password field */
